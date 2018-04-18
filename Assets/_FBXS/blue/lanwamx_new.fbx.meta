@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: c3756f6874ae1064c88de6838cf999d5
+timeCreated: 1523789677
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Accessories
+    100002: Accessories_head
+    100004: Apron
+    100006: BowknotA
+    100008: BowknotB
+    100010: Clothes
+    100012: ClothesA
+    100014: ClothesB
+    100016: CutPoly
+    100018: Doll
+    100020: Doll_eye_L
+    100022: Doll_eye_R
+    100024: Doll_hair
+    100026: Doll_teeth
+    100028: EarringA
+    100030: EarringB
+    100032: Flower_head
+    100034: Headband
+    100036: //RootNode
+    100038: NecklaceB
+    100040: NecklaceC
+    100042: NecklaceD
+    100044: Scarf
+    100046: Skirt
+    100048: Skirt_flower
+    100050: Skirt_flowerA
+    100052: Skirt_flowerB
+    100054: SkirtA
+    400000: Accessories
+    400002: Accessories_head
+    400004: Apron
+    400006: BowknotA
+    400008: BowknotB
+    400010: Clothes
+    400012: ClothesA
+    400014: ClothesB
+    400016: CutPoly
+    400018: Doll
+    400020: Doll_eye_L
+    400022: Doll_eye_R
+    400024: Doll_hair
+    400026: Doll_teeth
+    400028: EarringA
+    400030: EarringB
+    400032: Flower_head
+    400034: Headband
+    400036: //RootNode
+    400038: NecklaceB
+    400040: NecklaceC
+    400042: NecklaceD
+    400044: Scarf
+    400046: Skirt
+    400048: Skirt_flower
+    400050: Skirt_flowerA
+    400052: Skirt_flowerB
+    400054: SkirtA
+    2100000: Doll_clothes
+    2100002: huahuan1
+    2100004: toujin1
+    2100006: shouhuan1
+    2100008: xianglian
+    2100010: Doll_hair
+    2100012: body
+    2100014: Doll_eye1
+    2100016: tousheng1
+    2100018: Doll_teeth
+    2300000: Accessories
+    2300002: Accessories_head
+    2300004: Apron
+    2300006: BowknotA
+    2300008: BowknotB
+    2300010: Clothes
+    2300012: ClothesA
+    2300014: ClothesB
+    2300016: CutPoly
+    2300018: Doll
+    2300020: Doll_eye_L
+    2300022: Doll_eye_R
+    2300024: Doll_hair
+    2300026: Doll_teeth
+    2300028: EarringA
+    2300030: EarringB
+    2300032: Flower_head
+    2300034: Headband
+    2300036: NecklaceB
+    2300038: NecklaceC
+    2300040: NecklaceD
+    2300042: Scarf
+    2300044: Skirt
+    2300046: Skirt_flower
+    2300048: Skirt_flowerA
+    2300050: Skirt_flowerB
+    2300052: SkirtA
+    3300000: Accessories
+    3300002: Accessories_head
+    3300004: Apron
+    3300006: BowknotA
+    3300008: BowknotB
+    3300010: Clothes
+    3300012: ClothesA
+    3300014: ClothesB
+    3300016: CutPoly
+    3300018: Doll
+    3300020: Doll_eye_L
+    3300022: Doll_eye_R
+    3300024: Doll_hair
+    3300026: Doll_teeth
+    3300028: EarringA
+    3300030: EarringB
+    3300032: Flower_head
+    3300034: Headband
+    3300036: NecklaceB
+    3300038: NecklaceC
+    3300040: NecklaceD
+    3300042: Scarf
+    3300044: Skirt
+    3300046: Skirt_flower
+    3300048: Skirt_flowerA
+    3300050: Skirt_flowerB
+    3300052: SkirtA
+    4300000: Skirt
+    4300002: SkirtA
+    4300004: Accessories
+    4300006: NecklaceD
+    4300008: ClothesB
+    4300010: Apron
+    4300012: NecklaceC
+    4300014: Clothes
+    4300016: Skirt_flower
+    4300018: Skirt_flowerA
+    4300020: Skirt_flowerB
+    4300022: ClothesA
+    4300024: Flower_head
+    4300026: Scarf
+    4300028: BowknotA
+    4300030: BowknotB
+    4300032: Accessories_head
+    4300034: EarringA
+    4300036: CutPoly
+    4300038: Headband
+    4300040: NecklaceB
+    4300042: Doll_hair
+    4300044: Doll
+    4300046: Doll_eye_L
+    4300048: Doll_eye_R
+    4300050: EarringB
+    4300052: Doll_teeth
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

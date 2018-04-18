@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: a47366f78f417504cba9a73c4951c78a
+timeCreated: 1523624564
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Doll_Body
+    100002: Doll_Cloth1_ALL
+    100004: Doll_Cloth_ALL
+    100006: Doll_Eye_L
+    100008: Doll_Eye_Pupil_L
+    100010: Doll_Eye_R
+    100012: Doll_hair
+    100014: Doll_teeth
+    100016: Group001
+    100018: //RootNode
+    100020: polySurface200
+    100022: polySurface201
+    100024: polySurface202
+    100026: polySurface203
+    100028: polySurface204
+    100030: polySurface205
+    100032: polySurface206
+    100034: polySurface207
+    100036: polySurface208
+    100038: polySurface209
+    100040: polySurface210
+    100042: polySurface211
+    100044: polySurface212
+    100046: polySurface213
+    100048: polySurface230
+    100050: polySurface234
+    100052: polySurface235
+    400000: Doll_Body
+    400002: Doll_Cloth1_ALL
+    400004: Doll_Cloth_ALL
+    400006: Doll_Eye_L
+    400008: Doll_Eye_Pupil_L
+    400010: Doll_Eye_R
+    400012: Doll_hair
+    400014: Doll_teeth
+    400016: Group001
+    400018: //RootNode
+    400020: polySurface200
+    400022: polySurface201
+    400024: polySurface202
+    400026: polySurface203
+    400028: polySurface204
+    400030: polySurface205
+    400032: polySurface206
+    400034: polySurface207
+    400036: polySurface208
+    400038: polySurface209
+    400040: polySurface210
+    400042: polySurface211
+    400044: polySurface212
+    400046: polySurface213
+    400048: polySurface230
+    400050: polySurface234
+    400052: polySurface235
+    2100000: Cloth
+    2100002: Cloth1
+    2100004: neixiu
+    2100006: hairTubeShader1
+    2100008: Body1
+    2100010: eye1
+    2300000: Doll_Body
+    2300002: Doll_Cloth1_ALL
+    2300004: Doll_Eye_L
+    2300006: Doll_Eye_Pupil_L
+    2300008: Doll_Eye_R
+    2300010: Doll_hair
+    2300012: Doll_teeth
+    2300014: polySurface200
+    2300016: polySurface201
+    2300018: polySurface202
+    2300020: polySurface203
+    2300022: polySurface204
+    2300024: polySurface205
+    2300026: polySurface206
+    2300028: polySurface207
+    2300030: polySurface208
+    2300032: polySurface209
+    2300034: polySurface210
+    2300036: polySurface211
+    2300038: polySurface212
+    2300040: polySurface213
+    2300042: polySurface230
+    2300044: polySurface234
+    2300046: polySurface235
+    3300000: Doll_Body
+    3300002: Doll_Cloth1_ALL
+    3300004: Doll_Eye_L
+    3300006: Doll_Eye_Pupil_L
+    3300008: Doll_Eye_R
+    3300010: Doll_hair
+    3300012: Doll_teeth
+    3300014: polySurface200
+    3300016: polySurface201
+    3300018: polySurface202
+    3300020: polySurface203
+    3300022: polySurface204
+    3300024: polySurface205
+    3300026: polySurface206
+    3300028: polySurface207
+    3300030: polySurface208
+    3300032: polySurface209
+    3300034: polySurface210
+    3300036: polySurface211
+    3300038: polySurface212
+    3300040: polySurface213
+    3300042: polySurface230
+    3300044: polySurface234
+    3300046: polySurface235
+    4300000: Doll_Cloth1_ALL
+    4300002: polySurface200
+    4300004: polySurface201
+    4300006: polySurface202
+    4300008: polySurface203
+    4300010: polySurface204
+    4300012: polySurface205
+    4300014: polySurface206
+    4300016: polySurface207
+    4300018: polySurface208
+    4300020: polySurface209
+    4300022: polySurface210
+    4300024: polySurface211
+    4300026: polySurface212
+    4300028: polySurface213
+    4300030: polySurface234
+    4300032: polySurface235
+    4300034: Doll_hair
+    4300036: Doll_Body
+    4300038: Doll_teeth
+    4300040: Doll_Eye_L
+    4300042: Doll_Eye_R
+    4300044: Doll_Eye_Pupil_L
+    4300046: polySurface230
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 8725dc56c174d5d4e86c683da70ca2e2
+timeCreated: 1523792374
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: QiPao_Body
+    100002: QiPao_Cloth
+    100004: QiPao_Eye
+    100006: QiPao_Hair
+    100008: QiPao_teeth
+    100010: //RootNode
+    100012: "\u5BF9\u8C61001"
+    100014: "\u5BF9\u8C61002"
+    100016: "\u5BF9\u8C61003"
+    100018: "\u5BF9\u8C61004"
+    100020: "\u5BF9\u8C61005"
+    100022: "\u5BF9\u8C61006"
+    100024: "\u5BF9\u8C61007"
+    400000: QiPao_Body
+    400002: QiPao_Cloth
+    400004: QiPao_Eye
+    400006: QiPao_Hair
+    400008: QiPao_teeth
+    400010: //RootNode
+    400012: "\u5BF9\u8C61001"
+    400014: "\u5BF9\u8C61002"
+    400016: "\u5BF9\u8C61003"
+    400018: "\u5BF9\u8C61004"
+    400020: "\u5BF9\u8C61005"
+    400022: "\u5BF9\u8C61006"
+    400024: "\u5BF9\u8C61007"
+    2100000: QiPao_Cloth
+    2100002: body
+    2100004: QiPao_teeth
+    2100006: eyes
+    2100008: hair
+    2300000: QiPao_Body
+    2300002: QiPao_Cloth
+    2300004: QiPao_Eye
+    2300006: QiPao_Hair
+    2300008: QiPao_teeth
+    2300010: "\u5BF9\u8C61001"
+    2300012: "\u5BF9\u8C61002"
+    2300014: "\u5BF9\u8C61003"
+    2300016: "\u5BF9\u8C61004"
+    2300018: "\u5BF9\u8C61005"
+    2300020: "\u5BF9\u8C61006"
+    2300022: "\u5BF9\u8C61007"
+    3300000: QiPao_Body
+    3300002: QiPao_Cloth
+    3300004: QiPao_Eye
+    3300006: QiPao_Hair
+    3300008: QiPao_teeth
+    3300010: "\u5BF9\u8C61001"
+    3300012: "\u5BF9\u8C61002"
+    3300014: "\u5BF9\u8C61003"
+    3300016: "\u5BF9\u8C61004"
+    3300018: "\u5BF9\u8C61005"
+    3300020: "\u5BF9\u8C61006"
+    3300022: "\u5BF9\u8C61007"
+    4300000: QiPao_Cloth
+    4300002: QiPao_Body
+    4300004: QiPao_teeth
+    4300006: QiPao_Eye
+    4300008: QiPao_Hair
+    4300010: "\u5BF9\u8C61001"
+    4300012: "\u5BF9\u8C61002"
+    4300014: "\u5BF9\u8C61003"
+    4300016: "\u5BF9\u8C61004"
+    4300018: "\u5BF9\u8C61005"
+    4300020: "\u5BF9\u8C61006"
+    4300022: "\u5BF9\u8C61007"
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

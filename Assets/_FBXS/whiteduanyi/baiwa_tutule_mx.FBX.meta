@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: f16f4d0fe62563848894ebe21ace588e
+timeCreated: 1523795318
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Doll_Body
+    100004: Doll_Eye_Pupil_R
+    100006: Doll_hair
+    100008: Object001
+    100010: polySurface1
+    100012: polySurface10
+    100014: polySurface11
+    100016: polySurface12
+    100018: polySurface13
+    100020: polySurface14
+    100022: polySurface15
+    100024: polySurface16
+    100026: polySurface17
+    100028: polySurface18
+    100030: polySurface19
+    100032: polySurface2
+    100034: polySurface20
+    100036: polySurface21
+    100038: polySurface22
+    100040: polySurface23
+    100042: polySurface24
+    100044: polySurface25
+    100046: polySurface26
+    100048: polySurface27
+    100050: polySurface28
+    100052: polySurface29
+    100054: polySurface3
+    100056: polySurface30
+    100058: polySurface31
+    100060: polySurface32
+    100062: polySurface33
+    100064: polySurface34
+    100066: polySurface35
+    100068: polySurface36
+    100070: polySurface37
+    100072: polySurface4
+    100074: polySurface5
+    100076: polySurface6
+    100078: polySurface7
+    100080: polySurface8
+    100082: polySurface9
+    100084: transform1
+    100086: transform10
+    100088: transform11
+    100090: transform12
+    100092: transform13
+    100094: transform14
+    100096: transform15
+    100098: transform16
+    100100: transform17
+    100102: transform18
+    100104: transform19
+    100106: transform2
+    100108: transform20
+    100110: transform21
+    100112: transform22
+    100114: transform23
+    100116: transform24
+    100118: transform25
+    100120: transform26
+    100122: transform27
+    100124: transform28
+    100126: transform29
+    100128: transform3
+    100130: transform30
+    100132: transform31
+    100134: transform32
+    100136: transform33
+    100138: transform34
+    100140: transform35
+    100142: transform4
+    100144: transform5
+    100146: transform6
+    100148: transform7
+    100150: transform8
+    100152: transform9
+    100154: yifu
+    100156: yifu001
+    400000: //RootNode
+    400002: Doll_Body
+    400004: Doll_Eye_Pupil_R
+    400006: Doll_hair
+    400008: Object001
+    400010: polySurface1
+    400012: polySurface10
+    400014: polySurface11
+    400016: polySurface12
+    400018: polySurface13
+    400020: polySurface14
+    400022: polySurface15
+    400024: polySurface16
+    400026: polySurface17
+    400028: polySurface18
+    400030: polySurface19
+    400032: polySurface2
+    400034: polySurface20
+    400036: polySurface21
+    400038: polySurface22
+    400040: polySurface23
+    400042: polySurface24
+    400044: polySurface25
+    400046: polySurface26
+    400048: polySurface27
+    400050: polySurface28
+    400052: polySurface29
+    400054: polySurface3
+    400056: polySurface30
+    400058: polySurface31
+    400060: polySurface32
+    400062: polySurface33
+    400064: polySurface34
+    400066: polySurface35
+    400068: polySurface36
+    400070: polySurface37
+    400072: polySurface4
+    400074: polySurface5
+    400076: polySurface6
+    400078: polySurface7
+    400080: polySurface8
+    400082: polySurface9
+    400084: transform1
+    400086: transform10
+    400088: transform11
+    400090: transform12
+    400092: transform13
+    400094: transform14
+    400096: transform15
+    400098: transform16
+    400100: transform17
+    400102: transform18
+    400104: transform19
+    400106: transform2
+    400108: transform20
+    400110: transform21
+    400112: transform22
+    400114: transform23
+    400116: transform24
+    400118: transform25
+    400120: transform26
+    400122: transform27
+    400124: transform28
+    400126: transform29
+    400128: transform3
+    400130: transform30
+    400132: transform31
+    400134: transform32
+    400136: transform33
+    400138: transform34
+    400140: transform35
+    400142: transform4
+    400144: transform5
+    400146: transform6
+    400148: transform7
+    400150: transform8
+    400152: transform9
+    400154: yifu
+    400156: yifu001
+    2100000: 19 - Default
+    2100002: body
+    2100004: 18 - Default6
+    2100006: 19 - Default4
+    2100008: hairTubeShader1
+    2300000: Doll_Body
+    2300002: Doll_Eye_Pupil_R
+    2300004: Doll_hair
+    2300006: polySurface34
+    2300008: polySurface35
+    2300010: polySurface37
+    2300012: yifu
+    3300000: Doll_Body
+    3300002: Doll_Eye_Pupil_R
+    3300004: Doll_hair
+    3300006: polySurface34
+    3300008: polySurface35
+    3300010: polySurface37
+    3300012: yifu
+    4300000: yifu
+    4300002: Doll_Body
+    4300004: Doll_Eye_Pupil_R
+    4300006: polySurface34
+    4300008: polySurface35
+    4300010: polySurface37
+    4300012: Doll_hair
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
